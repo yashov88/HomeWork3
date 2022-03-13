@@ -1,0 +1,10 @@
+package HomeWork3;
+
+public class Problem01 {
+    public static void main(String[] args) {
+        String name = "Dimitar";
+        System.out.println(name.length());
+        System.out.println(name.toLowerCase());
+        System.out.println(name.toUpperCase());
+    }
+}
